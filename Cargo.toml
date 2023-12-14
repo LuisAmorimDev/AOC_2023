@@ -1,0 +1,9 @@
+[workspace]
+
+members = [ "day*", "aoc", "www" ]
+default-members = [ "aoc", "www" ]
+
+resolver = "2"
+
+[workspace.dependencies]
+
